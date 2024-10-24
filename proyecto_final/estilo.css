@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: black;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    width: auto;
+}
+
+.nav{
+    background-color: black;
+    overflow: hidden;
+}
+
+.nav a{
+    float: left;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav a:hover{
+    background-color: #ddd;
+    color: black;
+}
+.nav1{
+    text-decoration: center;
+}
+.nav2{
+    text-decoration: center;
+}
+.nav3{
+    text-decoration: center;
+}
